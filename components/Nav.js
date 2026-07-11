@@ -195,8 +195,6 @@ export default function Nav() {
           <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a>
           <br />
           <a href="tel:+13073810889">+1 (307) 381-0889</a>
-          <br />
-          Monday – Friday, 9 AM – 5 PM MT
         </div>
       </aside>
     </>

@@ -69,18 +69,6 @@ export default function ContactPage() {
                 <div className="cdet-val">30 N Gould St, Ste R<br />Sheridan, WY 82801</div>
               </div>
             </div>
-            <div className="cdet">
-              <div className="cdet-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--teal)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <circle cx="12" cy="12" r="10" />
-                  <polyline points="12 6 12 12 16 14" />
-                </svg>
-              </div>
-              <div>
-                <div className="cdet-lbl">Business Hours</div>
-                <div className="cdet-val">Monday – Friday, 9 AM – 5 PM MT</div>
-              </div>
-            </div>
           </div>
           <ConsultationForm />
         </div>
