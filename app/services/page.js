@@ -4,7 +4,7 @@ import PageCta from '../../components/PageCta';
 import { services } from '../../components/content/services';
 
 export const metadata = {
-  title: 'Credentialing Services | QUAD Healthcare Solutions',
+  title: 'Credentialing Services | FORGE Healthcare Solutions',
   description:
     'Full-service medical credentialing — provider enrollment, CAQH, re-credentialing, contract negotiation, NPI & PECOS enrollment.',
 };

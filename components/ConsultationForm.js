@@ -81,7 +81,7 @@ export default function ConsultationForm() {
       />
 
       {/* Backup email + subject line via Formspree special fields */}
-      <input type="hidden" name="_cc" value="info@quadhealthcaresolutions.com" />
+      <input type="hidden" name="_cc" value="info@forgehealthcaresolutions.com" />
       <input
         type="hidden"
         name="_subject"
@@ -185,7 +185,7 @@ export default function ConsultationForm() {
             }}
           />
           <span className="cb-text">
-            I consent to receive marketing SMS/text messages from QUAD Healthcare Solutions at the phone number provided above.
+            I consent to receive marketing SMS/text messages from FORGE Healthcare Solutions at the phone number provided above.
           </span>
         </label>
         <div className="cb-disclaimer">

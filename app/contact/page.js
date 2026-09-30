@@ -2,7 +2,7 @@ import PageHero from '../../components/PageHero';
 import ConsultationForm from '../../components/ConsultationForm';
 
 export const metadata = {
-  title: 'Contact Us | QUAD Healthcare Solutions',
+  title: 'Contact Us | FORGE Healthcare Solutions',
   description:
     'Request a free consultation. Tell us about your practice and we will build a custom enrollment and revenue-cycle plan.',
 };
@@ -39,7 +39,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <div className="cdet-lbl">Email</div>
-                <div className="cdet-val">info@quadhealthcaresolutions.com</div>
+                <div className="cdet-val">info@forgehealthcaresolutions.com</div>
               </div>
             </div>
             <div className="cdet">

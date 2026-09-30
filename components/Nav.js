@@ -72,7 +72,7 @@ export default function Nav() {
         <Link href="/" className="nlogo">
           <div className="nlm"><LogoSvg idSuffix="nav" /></div>
           <div className="nltxt">
-            <span className="nlt">QUAD Healthcare</span>
+            <span className="nlt">FORGE Healthcare</span>
             <span className="nls">Solutions</span>
           </div>
         </Link>
@@ -125,7 +125,7 @@ export default function Nav() {
           <Link href="/" className="nlogo" onClick={closeAll}>
             <div className="nlm"><LogoSvg idSuffix="mob" /></div>
             <div className="nltxt">
-              <span className="nlt">QUAD Healthcare</span>
+              <span className="nlt">FORGE Healthcare</span>
               <span className="nls">Solutions</span>
             </div>
           </Link>
@@ -192,7 +192,7 @@ export default function Nav() {
 
         <div className="mnav-foot">
           <span className="mnav-foot-label">Get in Touch</span>
-          <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a>
+          <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a>
           <br />
           <a href="tel:+13073810889">+1 (307) 381-0889</a>
         </div>

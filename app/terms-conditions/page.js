@@ -2,8 +2,8 @@ import PageHero from '../../components/PageHero';
 import PageCta from '../../components/PageCta';
 
 export const metadata = {
-  title: 'Terms & Conditions | QUAD Healthcare Solutions',
-  description: 'Terms of service for the QUAD Healthcare Solutions website and engagements.',
+  title: 'Terms & Conditions | FORGE Healthcare Solutions',
+  description: 'Terms of service for the FORGE Healthcare Solutions website and engagements.',
 };
 
 export default function TermsConditions() {
@@ -19,12 +19,12 @@ export default function TermsConditions() {
       <section className="ipage">
         <div className="ipage-in">
           <p>
-            Welcome to the QUAD Healthcare Solutions website. By accessing or using this Site, you agree to comply with and be bound by these Terms and Conditions established by QUAD SOLUTIONS LLC, doing business as QUAD Healthcare Solutions. If you do not agree with any part of these Terms, you must not use this Site.
+            Welcome to the FORGE Healthcare Solutions website. By accessing or using this Site, you agree to comply with and be bound by these Terms and Conditions established by FORGE HEALTHCARE SOLUTIONS LLC. If you do not agree with any part of these Terms, you must not use this Site.
           </p>
 
           <h2>SMS/Text Messaging Program Terms</h2>
           <p>
-            By checking the SMS consent checkbox on our Contact form, or by texting START or initiating a conversation with +1 (307) 381-0889, you expressly consent to receive recurring marketing text messages from QUAD Healthcare Solutions at the mobile number you provide. These messages may include marketing, promotional offers, credentialing updates, enrollment status notifications, appointment reminders, and service-related information.
+            By checking the SMS consent checkbox on our Contact form, or by texting START or initiating a conversation with +1 (307) 381-0889, you expressly consent to receive recurring marketing text messages from FORGE Healthcare Solutions at the mobile number you provide. These messages may include marketing, promotional offers, credentialing updates, enrollment status notifications, appointment reminders, and service-related information.
           </p>
           <ul>
             <li>
@@ -38,10 +38,10 @@ export default function TermsConditions() {
             </li>
             <li>
               <strong>Help:</strong> Reply HELP to any message for assistance, or contact us at{' '}
-              <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a> or +1 (307) 381-0889.
+              <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a> or +1 (307) 381-0889.
             </li>
             <li>
-              <strong>Consent Not Required:</strong> Consent to receive marketing text messages is not a condition of purchasing any goods or services from QUAD Healthcare Solutions.
+              <strong>Consent Not Required:</strong> Consent to receive marketing text messages is not a condition of purchasing any goods or services from FORGE Healthcare Solutions.
             </li>
             <li>
               <strong>Privacy:</strong> Your mobile number and opt-in data will not be shared with third parties for marketing purposes. See our Privacy Policy for full details.
@@ -58,7 +58,7 @@ export default function TermsConditions() {
 
           <h2>Intellectual Property</h2>
           <p>
-            All content on this Site, including text, graphics, logos, images, audio clips, and software, is the property of QUAD Healthcare Solutions and protected by intellectual property laws. You may not use, reproduce, distribute, modify, or create derivative works without our express written consent.
+            All content on this Site, including text, graphics, logos, images, audio clips, and software, is the property of FORGE Healthcare Solutions and protected by intellectual property laws. You may not use, reproduce, distribute, modify, or create derivative works without our express written consent.
           </p>
 
           <h2>Privacy</h2>
@@ -83,7 +83,7 @@ export default function TermsConditions() {
 
           <h2>Limitation of Liability</h2>
           <p>
-            To the fullest extent permitted by applicable law, QUAD Healthcare Solutions will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues.
+            To the fullest extent permitted by applicable law, FORGE Healthcare Solutions will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues.
           </p>
 
           <h2>Governing Law</h2>
@@ -143,7 +143,7 @@ export default function TermsConditions() {
 
           <h2>Entire Agreement</h2>
           <p>
-            These Terms constitute the entire agreement between you and QUAD Healthcare Solutions regarding the Site.
+            These Terms constitute the entire agreement between you and FORGE Healthcare Solutions regarding the Site.
           </p>
 
           <h2>Headings</h2>
@@ -164,7 +164,7 @@ export default function TermsConditions() {
           <h2>Contact Information</h2>
           <p>
             For questions about these Terms, please contact us at{' '}
-            <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a>.
+            <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a>.
           </p>
 
           <p>
