@@ -12,7 +12,7 @@ const LogoSvg = () => (
     </defs>
     <path mask="url(#gap-foot)" d="M12 2L3 6v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V6l-9-4z" />
     <path d="M20.3 9.5 h1.4 v1.8 h1.8 v1.4 h-1.8 v1.8 h-1.4 v-1.8 h-1.8 v-1.4 h1.8 z" fill="#fff" />
-    <text x="12" y="16.5" fontFamily="'Cormorant Garamond', serif" fontSize="14" fontWeight="bold" fill="#fff" textAnchor="middle">Q</text>
+    <text x="12" y="16.5" fontFamily="'Cormorant Garamond', serif" fontSize="14" fontWeight="bold" fill="#fff" textAnchor="middle">F</text>
   </svg>
 );
 
