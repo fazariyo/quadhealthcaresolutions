@@ -9,15 +9,10 @@ const LogoSvg = () => (
         <rect width="24" height="24" fill="white" />
         <circle cx="21" cy="12" r="4" fill="black" />
       </mask>
-      <linearGradient id="shield-foot" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stopColor="#2FE0B6" />
-        <stop offset="55%" stopColor="#09A882" />
-        <stop offset="100%" stopColor="#057A60" />
-      </linearGradient>
     </defs>
-    <path mask="url(#gap-foot)" fill="url(#shield-foot)" d="M12 2L3 6v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V6l-9-4z" />
+    <path mask="url(#gap-foot)" d="M12 2L3 6v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V6l-9-4z" />
     <path d="M20.3 9.5 h1.4 v1.8 h1.8 v1.4 h-1.8 v1.8 h-1.4 v-1.8 h-1.8 v-1.4 h1.8 z" fill="#fff" />
-    <text x="12" y="16.5" fontFamily="'Cormorant Garamond', serif" fontSize="14" fontWeight="bold" fill="#fff" textAnchor="middle" style={{ filter: 'drop-shadow(0 0.4px 0.5px rgba(0,0,0,0.35))' }}>F</text>
+    <text x="11" y="18.2" fontFamily="'Cormorant Garamond', serif" fontSize="18" fontStyle="italic" fontWeight="600" fill="#fff" textAnchor="middle">F</text>
   </svg>
 );
 
