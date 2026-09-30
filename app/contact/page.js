@@ -66,7 +66,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <div className="cdet-lbl">Office</div>
-                <div className="cdet-val">30 N Gould St, Ste R<br />Sheridan, WY 82801</div>
+                <div className="cdet-val">7901 4th St N, Ste 300<br />St. Petersburg, FL 33702</div>
               </div>
             </div>
           </div>
