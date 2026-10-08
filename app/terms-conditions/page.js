@@ -24,7 +24,7 @@ export default function TermsConditions() {
 
           <h2>SMS/Text Messaging Program Terms</h2>
           <p>
-            By checking the SMS consent checkbox on our Contact form, or by texting START or initiating a conversation with +1 (307) 381-0889, you expressly consent to receive recurring marketing text messages from FORGE Healthcare Solutions at the mobile number you provide. These messages may include marketing, promotional offers, credentialing updates, enrollment status notifications, appointment reminders, and service-related information.
+            By checking the SMS consent checkbox on our Contact form, or by texting START or initiating a conversation with +1 (786) 887-5547, you expressly consent to receive recurring marketing text messages from FORGE Healthcare Solutions at the mobile number you provide. These messages may include marketing, promotional offers, credentialing updates, enrollment status notifications, appointment reminders, and service-related information.
           </p>
           <ul>
             <li>
@@ -38,7 +38,7 @@ export default function TermsConditions() {
             </li>
             <li>
               <strong>Help:</strong> Reply HELP to any message for assistance, or contact us at{' '}
-              <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a> or +1 (307) 381-0889.
+              <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a> or +1 (786) 887-5547.
             </li>
             <li>
               <strong>Consent Not Required:</strong> Consent to receive marketing text messages is not a condition of purchasing any goods or services from FORGE Healthcare Solutions.

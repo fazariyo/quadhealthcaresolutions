@@ -194,7 +194,7 @@ export default function Nav() {
           <span className="mnav-foot-label">Get in Touch</span>
           <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a>
           <br />
-          <a href="tel:+13073810889">+1 (307) 381-0889</a>
+          <a href="tel:+17868875547">+1 (786) 887-5547</a>
         </div>
       </aside>
     </>
