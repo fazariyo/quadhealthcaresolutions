@@ -2,6 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
+  // Set by the GitHub Pages workflow; empty for a custom domain or local builds.
+  basePath: process.env.PAGES_BASE_PATH || '',
   trailingSlash: true,
   images: {
     unoptimized: true,
