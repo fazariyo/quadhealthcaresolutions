@@ -2,8 +2,8 @@ import PageHero from '../../components/PageHero';
 import PageCta from '../../components/PageCta';
 
 export const metadata = {
-  title: 'Privacy Policy | FORGE Healthcare Solutions',
-  description: 'How FORGE Healthcare Solutions collects, uses, and protects your personal data.',
+  title: 'Privacy Policy | QUAD Healthcare Solutions',
+  description: 'How QUAD Healthcare Solutions collects, uses, and protects your personal data.',
 };
 
 export default function PrivacyPolicy() {
@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
       <section className="ipage">
         <div className="ipage-in">
           <p>
-            FORGE HEALTHCARE SOLUTIONS LLC (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;us&rdquo;) is dedicated to safeguarding your privacy and protecting your personal information. This Privacy Policy outlines the types of information we collect, how we use it, and the measures we take to ensure its security. By using our services, you agree to the terms of this Privacy Policy.
+            QUAD HEALTHCARE SOLUTIONS LLC (&ldquo;we,&rdquo; &ldquo;our,&rdquo; or &ldquo;us&rdquo;) is dedicated to safeguarding your privacy and protecting your personal information. This Privacy Policy outlines the types of information we collect, how we use it, and the measures we take to ensure its security. By using our services, you agree to the terms of this Privacy Policy.
           </p>
 
           <h2>1. Information Collection and Use</h2>
@@ -47,30 +47,30 @@ export default function PrivacyPolicy() {
 
           <h2>5. SMS/Text Messaging Program</h2>
           <p>
-            FORGE Healthcare Solutions offers an SMS/text messaging program to provide marketing, promotional offers, credentialing updates, enrollment status notifications, appointment reminders, and service-related information. By opting in to our SMS program, you agree to the following:
+            QUAD Healthcare Solutions offers an SMS/text messaging program to provide marketing, promotional offers, credentialing updates, enrollment status notifications, appointment reminders, and service-related information. By opting in to our SMS program, you agree to the following:
           </p>
           <ul>
             <li>
-              <strong>Opt-In:</strong> You may opt in to receive <strong>marketing text messages</strong> from FORGE Healthcare Solutions by checking the SMS consent checkbox on our Contact form, by texting START, <strong>or by initiating a conversation with</strong> +1 (786) 887-5547. Your opt-in constitutes your express written consent to receive recurring text messages from FORGE Healthcare Solutions at the mobile number you provide.
+              <strong>Opt-In:</strong> You may opt in to receive <strong>marketing text messages</strong> from QUAD Healthcare Solutions by checking the SMS consent checkbox on our Contact form, by texting START, <strong>or by initiating a conversation with</strong> +1 (307) 427-2883. Your opt-in constitutes your express written consent to receive recurring text messages from QUAD Healthcare Solutions at the mobile number you provide.
             </li>
             <li>
-              <strong>Message Content:</strong> Messages may include marketing, promotional offers, credentialing status updates, insurance panel enrollment progress, appointment reminders, billing notifications, and general service information related to your account with FORGE Healthcare Solutions.
+              <strong>Message Content:</strong> Messages may include marketing, promotional offers, credentialing status updates, insurance panel enrollment progress, appointment reminders, billing notifications, and general service information related to your account with QUAD Healthcare Solutions.
             </li>
             <li>
               <strong>Message Frequency:</strong> Message frequency varies based on your account activity and marketing campaigns. You may receive up to 4 messages per month.
             </li>
             <li>
-              <strong>Message and Data Rates:</strong> Standard message and data rates may apply depending on your mobile carrier and plan. FORGE Healthcare Solutions is not responsible for any charges from your carrier.
+              <strong>Message and Data Rates:</strong> Standard message and data rates may apply depending on your mobile carrier and plan. QUAD Healthcare Solutions is not responsible for any charges from your carrier.
             </li>
             <li>
-              <strong>Opt-Out:</strong> You may opt out of receiving text messages at any time by replying STOP to any message you receive from us. After opting out, you will receive one final confirmation message and will no longer receive SMS messages from FORGE Healthcare Solutions unless you opt in again.
+              <strong>Opt-Out:</strong> You may opt out of receiving text messages at any time by replying STOP to any message you receive from us. After opting out, you will receive one final confirmation message and will no longer receive SMS messages from QUAD Healthcare Solutions unless you opt in again.
             </li>
             <li>
               <strong>Help:</strong> For assistance with our SMS program, reply HELP to any message, or contact us at{' '}
-              <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a> or call +1 (786) 887-5547.
+              <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a> or call +1 (307) 427-2883.
             </li>
             <li>
-              <strong>Consent Not Required for Purchase:</strong> Consent to receive text messages is not a condition of purchasing any services from FORGE Healthcare Solutions.
+              <strong>Consent Not Required for Purchase:</strong> Consent to receive text messages is not a condition of purchasing any services from QUAD Healthcare Solutions.
             </li>
             <li>
               <strong>Data Protection:</strong> Mobile information, including phone numbers and opt-in data, will not be shared with third parties or affiliates for marketing or promotional purposes. All categories above exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
@@ -88,7 +88,7 @@ export default function PrivacyPolicy() {
           <h2>7. Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, please contact us at{' '}
-            <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a>.
+            <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a>.
           </p>
 
           <h2>Cookie Policy</h2>
@@ -132,7 +132,7 @@ export default function PrivacyPolicy() {
           <h3>6. Contact Us</h3>
           <p>
             If you have any questions about our Cookie Policy, please contact us at{' '}
-            <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a>.
+            <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a>.
           </p>
 
           <p>

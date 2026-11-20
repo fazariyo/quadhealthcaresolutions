@@ -1,20 +1,8 @@
 'use client';
 
 import Link from 'next/link';
+import LogoSvg from './LogoSvg';
 
-const LogoSvg = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="currentColor">
-    <defs>
-      <mask id="gap-foot">
-        <rect width="24" height="24" fill="white" />
-        <circle cx="21" cy="12" r="4" fill="black" />
-      </mask>
-    </defs>
-    <path mask="url(#gap-foot)" d="M12 2L3 6v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V6l-9-4z" />
-    <path d="M20.3 9.5 h1.4 v1.8 h1.8 v1.4 h-1.8 v1.8 h-1.4 v-1.8 h-1.8 v-1.4 h1.8 z" fill="#fff" />
-    <text x="11" y="18.2" fontFamily="'Cormorant Garamond', serif" fontSize="18" fontStyle="italic" fontWeight="600" fill="#fff" textAnchor="middle">F</text>
-  </svg>
-);
 
 export default function Footer() {
   return (
@@ -23,9 +11,9 @@ export default function Footer() {
         <div className="foot-top">
           <div>
             <Link href="/" className="nlogo" style={{ textDecoration: 'none' }}>
-              <div className="nlm"><LogoSvg /></div>
+              <div className="nlm"><LogoSvg idSuffix="foot" /></div>
               <div className="nltxt">
-                <span className="nlt">FORGE Healthcare</span>
+                <span className="nlt">QUAD Healthcare</span>
                 <span className="nls">Solutions</span>
               </div>
             </Link>
@@ -61,7 +49,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="foot-bot">
-          <div className="foot-copy">© 2025 FORGE HEALTHCARE SOLUTIONS LLC. All rights reserved.</div>
+          <div className="foot-copy">© 2025 QUAD HEALTHCARE SOLUTIONS LLC. All rights reserved.</div>
           <div className="foot-legal">
             <Link href="/privacy-policy">Privacy Policy</Link>
             <Link href="/terms-conditions">Terms &amp; Conditions</Link>

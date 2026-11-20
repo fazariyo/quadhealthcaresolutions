@@ -3,20 +3,8 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { usePathname } from 'next/navigation';
+import LogoSvg from './LogoSvg';
 
-const LogoSvg = ({ idSuffix }) => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="currentColor">
-    <defs>
-      <mask id={`gap-${idSuffix}`}>
-        <rect width="24" height="24" fill="white" />
-        <circle cx="21" cy="12" r="4" fill="black" />
-      </mask>
-    </defs>
-    <path mask={`url(#gap-${idSuffix})`} d="M12 2L3 6v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V6l-9-4z" />
-    <path d="M20.3 9.5 h1.4 v1.8 h1.8 v1.4 h-1.8 v1.8 h-1.4 v-1.8 h-1.8 v-1.4 h1.8 z" fill="#fff" />
-    <text x="11" y="18.2" fontFamily="'Cormorant Garamond', serif" fontSize="18" fontStyle="italic" fontWeight="600" fill="#fff" textAnchor="middle">F</text>
-  </svg>
-);
 
 export default function Nav() {
   const navRef = useRef(null);
@@ -72,7 +60,7 @@ export default function Nav() {
         <Link href="/" className="nlogo">
           <div className="nlm"><LogoSvg idSuffix="nav" /></div>
           <div className="nltxt">
-            <span className="nlt">FORGE Healthcare</span>
+            <span className="nlt">QUAD Healthcare</span>
             <span className="nls">Solutions</span>
           </div>
         </Link>
@@ -125,7 +113,7 @@ export default function Nav() {
           <Link href="/" className="nlogo" onClick={closeAll}>
             <div className="nlm"><LogoSvg idSuffix="mob" /></div>
             <div className="nltxt">
-              <span className="nlt">FORGE Healthcare</span>
+              <span className="nlt">QUAD Healthcare</span>
               <span className="nls">Solutions</span>
             </div>
           </Link>
@@ -192,9 +180,9 @@ export default function Nav() {
 
         <div className="mnav-foot">
           <span className="mnav-foot-label">Get in Touch</span>
-          <a href="mailto:info@forgehealthcaresolutions.com">info@forgehealthcaresolutions.com</a>
+          <a href="mailto:info@quadhealthcaresolutions.com">info@quadhealthcaresolutions.com</a>
           <br />
-          <a href="tel:+17868875547">+1 (786) 887-5547</a>
+          <a href="tel:+13074272883">+1 (307) 427-2883</a>
         </div>
       </aside>
     </>
